@@ -13,4 +13,4 @@ WORKDIR /data
 
 EXPOSE 4000
 
-ENTRYPOINT ["jekyll", "-watch", "server"]
+ENTRYPOINT ["jekyll", "serve", "--watch"]
