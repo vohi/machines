@@ -1,7 +1,7 @@
 Jekyll Server
 =============
 
-Docker Container running a Jekyll server. The watch the content of a directory and if it changes it rebuilds the site.
+Docker Container running a Jekyll server. It watches the content of a directory and if it changes it rebuilds the site.
 
 ## Usage
 
